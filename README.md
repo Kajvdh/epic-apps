@@ -28,6 +28,12 @@ I admit it, there is 1 neat feature that Windows has over Mac. And that's the th
 Memory. It's one of these hate-love things. It's the key thing that makes everything work so we have to love it. But we have too damn few of it! And in the digital world that's exactly the same.
 Luckily there is this awesome application called `Disk Map` that will help you out the next time your Mac is complaining that you ran out of disk space! This app will scan your directories and show (yes, visually) you which directories and files are giving your hard drive a hard time.
 
+## [Skitch](https://evernote.com/intl/nl/skitch/)
+This app is epic. It brings screenshotting to the next level! You can configure shortkeys to take a screenshot and it allows you to save it right away to a variety of image hosting websites (and for nerds like me: to an FTP server!!). And if that wasn't enough already, it synergizes extremely well with the notes app `Evernote` (`Skitch` was made by `Evernote` actually). This app helped me out a lot.
+
+## [RSS Bot](https://itunes.apple.com/us/app/rss-bot-news-notifier/id605732865)
+Admit it! You have a huge list of interesting websites you'd love to follow-up closely. Everyone has. However, the follow-up part is pretty hard. Luckily a lot of websites have `RSS`, making it possible to use RSS readers to never miss an article again. Yeah well.. If we weren't lazy and did check our RSS reader application every day. That's where `RSS Bot` comes to the rescue! It will let you know of new articles with some nice notifications in the right top corner of your screen. I love it!
+
 ## [Docker](https://docs.docker.com/)
 Are you a developer and do you therefore often need to install some tools to develop a specific application? Think about a MySQL database for application X, a MongoDb for application Y, an Apache server to host a web page you are developing and so on? Dockerize that shit! Stop installing them natively on your Mac, leave that up to the Windows users. With Docker you can run them easily within a container with only minimal configuration required, and you can easily dispose them when your project is finished! Your Mac won't be polluted anymore by all of these different development tools after a few months of programming.
 
